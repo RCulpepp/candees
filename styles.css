@@ -1,0 +1,146 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.board {
+	width: 750px;
+	height : 500px;
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+.bublegym {
+	width: 140px;
+	height: 140px;
+	border-radius: 70px;
+	margin: 0;
+	padding: 0;
+	vertical-align: bottom;
+	display: inline-block;
+}
+
+.spacer {
+	width: 40%;
+	display: inline-block;
+}
+
+
+.eye {
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	margin-top: 25px;
+	display: inline-block;
+}
+
+.left-eye {
+	margin-left: 35px;
+}
+
+.right-eye {
+	margin-left: 25px;
+}
+
+.mouth {
+	margin-top: 30px;
+	margin-left: 35px;
+	width: 60px;
+	height: 25px;
+	border-bottom-right-radius: 36px;
+	border-bottom-left-radius: 36px;
+	border: 5px solid red;
+	border-top: none;
+	border-width: 5px;
+}
+.body{
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	height: 100px;
+	width: 50px;
+	margin-left: 5px;
+	/*margin-top: 30px;*/
+	vertical-align: top;
+	display: inline-block;
+
+}
+
+.arm {
+	width: 35px;
+	height: 10px;
+	display: inline-block;
+	margin-top: 30px;
+}
+
+.character {
+	width: 200px;
+	display: inline-block;
+}
+
+.torso {
+	display: inline-block;
+}
+
+.blue {
+	background: blue;
+}
+.pink {
+	background: #ff84ff;
+}
+.gold {
+	background: #ffb533;
+}
+.white {
+	background: white;
+}
+
+.black {
+	background: black;
+}
+
+.purple {
+	background: purple;
+}
+.red {
+	background: red;
+}
+
+.light-blue {
+	background: lightblue;
+}
+
+.heros {
+
+}
+
+	#snickers {
+
+	}
+
+	#limin-snickers {
+
+	}
+
+	#pawer-hero {
+
+	}
+
+
+.enemies {
+
+}
+	#black-cotincandee {
+
+	}
+
+	#snaping-bubelgym {
+
+	}
+
+	#black-bubelgym {
+
+	}
+
+	#red-hot-tamale {
+
+	}
