@@ -5,8 +5,6 @@ $(document).ready(function(){
 			$('.character').prop('top', $('.character').attr('top')-1);
 		}
 	}
-
-
 });
 
 
